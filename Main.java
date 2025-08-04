@@ -6,3 +6,4 @@ public class Main{
 
     }
 }
+//随机数生成程序
