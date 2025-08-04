@@ -1,4 +1,4 @@
-
+//
 public class Main{
     public static void main(String[] args){
         int a =(int)Math.round(Math.random()*100) ;
@@ -6,4 +6,4 @@ public class Main{
 
     }
 }
-//随机数生成程序
+
